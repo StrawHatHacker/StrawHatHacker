@@ -16,3 +16,5 @@ Self taught front and backend developer. Using <a href="https://github.com/faceb
 Learning Docker and Next.js.<br />
 Creating Discord bots as past time.
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub&column=8rank=S&margin-w=10&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
