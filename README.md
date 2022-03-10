@@ -10,11 +10,18 @@
 </p>
 
 <h2 align="center">ABOUT ME</h2>
-<p>
-Self taught front and backend developer. Using <a href="https://github.com/facebook/react">React</a>
-    and <a href="https://github.com/fastify/fastify">fastify</a> for my projects.<br />
-Learning Docker and Next.js.<br />
-Creating Discord bots as past time.
-</p>
+
+<h3>Technologies</h3>
+
+<div>
+    <img height="48px" src="https://img.icons8.com/color/50/000000/react-native.png"/>
+    <img height="48px" src="https://www.fastify.io/images/fastify-logo-inverted.2180cc6b1919d47a.png"/>
+    <img height="48px" src="https://img.icons8.com/doodle/48/000000/svetle.png"/>
+    <img height="48px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+</div>
+
+<h3>Achievements</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub&column=8rank=S&margin-w=10&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+<a href="https://icons8.com/icon/123603/react-native">Icons by Icons8</a>
