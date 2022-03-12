@@ -11,7 +11,7 @@
 
 <h2 align="center">ABOUT ME</h2>
 
-Hello, I'm a software developer, mostly creating websites but also Discord chat bots for fun. My tech stack can vary per project but I'm a JavaScript enthousiast and I have a soft spot for MongoDB. 
+Hello, I'm a software developer, mostly creating websites but also Discord chat bots for fun. My tech stack can vary per project but I'm a JavaScript enthousiast and I have a soft spot for MongoDB. <strong>My plan is to build everything at least once!</strong>
 
 <h3>Technologies</h3>
 
