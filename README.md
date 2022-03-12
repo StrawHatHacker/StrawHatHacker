@@ -16,13 +16,13 @@ Hello, I'm a software developer, mostly creating websites but also Discord chat 
 <h3>Technologies</h3>
 
 <div>
-    <img src="https://img.icons8.com/color/50/000000/javascript--v1.png"/>
-    <img src="https://img.icons8.com/color/50/000000/typescript.png"/>
-    <img height="48px" src="https://img.icons8.com/color/50/000000/react-native.png"/>
-    <img height="48px" src="https://www.fastify.io/images/fastify-logo-inverted.2180cc6b1919d47a.png"/>
-    <img height="48px" src="https://img.icons8.com/doodle/48/000000/svetle.png"/>
-    <img height="48px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-    <img height="48px" src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png"/>
+    <img src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="javascript"/>
+    <img src="https://img.icons8.com/color/50/000000/typescript.png" alt="typescript"/>
+    <img height="48px" src="https://img.icons8.com/color/50/000000/react-native.png" alt="react"/>
+    <img height="48px" src="https://www.fastify.io/images/fastify-logo-inverted.2180cc6b1919d47a.png" alt="fastify"/>
+    <img height="48px" src="https://img.icons8.com/doodle/48/000000/svetle.png" alt="svelte sveltekit"/>
+    <img height="48px" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb"/>
+    <img height="48px" src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png" alt="sass scss"/>
 </div>
 
 <h3>Projects</h3>
