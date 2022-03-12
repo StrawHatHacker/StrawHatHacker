@@ -11,6 +11,8 @@
 
 <h2 align="center">ABOUT ME</h2>
 
+Hello, I'm a software developer, mostly creating websites but also Discord chat bots for fun. My tech stack can vary per project but I'm a JavaScript enthousiast and I have a soft spot for MongoDB. 
+
 <h3>Technologies</h3>
 
 <div>
@@ -19,6 +21,17 @@
     <img height="48px" src="https://img.icons8.com/doodle/48/000000/svetle.png"/>
     <img height="48px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 </div>
+
+<h3>Projects</h3>
+
+* [OtakuGIFs](https://otakugifs.xyz) - Anime GIF API
+* Kouh.ai - Coming Soon 😉
+
+<h3>Contributions</h3>
+
+* [SvelteKit](https://github.com/sveltejs/kit)
+
+<h3>Contact</h3>
 
 <h3>Achievements</h3>
 
