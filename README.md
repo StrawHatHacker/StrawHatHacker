@@ -27,8 +27,8 @@ Hello, I'm a software developer, mostly creating websites but also Discord chat 
 
 <h3>Projects</h3>
 
+* [Kouh.ai](https://kouh.ai) - Multipurpose website
 * [OtakuGIFs](https://otakugifs.xyz) - Anime GIF API
-* Kouh.ai - Coming Soon 😉
 
 <h3>Contributions</h3>
 
