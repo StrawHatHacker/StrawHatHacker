@@ -25,7 +25,7 @@ Hello, I'm a software developer, mostly creating websites but also Discord chat 
     <img height="48px" src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png" alt="sass scss"/>
 </div>
 
-<h3>Projects</h3>
+<h3>Websites</h3>
 
 * [Kouh.ai](https://kouh.ai) - Multipurpose website
 * [OtakuGIFs](https://otakugifs.xyz) - Anime GIF API
