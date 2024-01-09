@@ -15,16 +15,6 @@ Hello, I'm a software developer, mostly creating websites but also Discord chat 
 
 <h3>Technologies</h3>
 
-<div>
-    <img src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="javascript"/>
-    <img src="https://img.icons8.com/color/50/000000/typescript.png" alt="typescript"/>
-    <img height="48px" src="https://img.icons8.com/color/50/000000/react-native.png" alt="react"/>
-    <img height="48px" src="https://fastify.dev/img/logos/fastify-black.svg" alt="fastify"/>
-    <img height="48px" src="https://img.icons8.com/doodle/48/000000/svetle.png" alt="svelte sveltekit"/>
-    <img height="48px" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb"/>
-    <img height="48px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="sass scss"/>
-</div>
-
 <h3>Websites</h3>
 
 * [Kouh.ai](https://kouh.ai) - Multipurpose website
@@ -42,5 +32,3 @@ Message me on [LinkedIn](https://www.linkedin.com/in/panos-ntais)
 <h3>Achievements</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub&column=8rank=S&margin-w=10&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-<a href="https://icons8.com/icon/123603/react-native">Icons by Icons8</a>
