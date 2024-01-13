@@ -22,8 +22,9 @@ Hello, I'm a software developer, mostly creating websites but also Discord chat 
 
 <h3>Contributions</h3>
 
-* [SvelteKit](https://github.com/sveltejs/kit)
-* [Elysia](https://github.com/elysiajs/documentation)
+* [SvelteKit](https://github.com/sveltejs/kit) (docs)
+* [Elysia](https://github.com/elysiajs/documentation) (docs)
+* [DaisyUI collection](https://github.com/willpinha/daisy-collection) (UI)
 
 <h3>Contact</h3>
 
