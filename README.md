@@ -24,7 +24,7 @@ Hello, I'm a software developer, mostly creating websites but also Discord chat 
 
 * [SvelteKit](https://github.com/sveltejs/kit) (docs)
 * [Elysia](https://github.com/elysiajs/documentation) (docs)
-* [DaisyUI collection](https://github.com/willpinha/daisy-collection) (UI)
+* [DaisyUI collection](https://github.com/willpinha/daisy-collection) (UI components)
 * [GoFiber](https://github.com/gofiber/fiber) (docs)
 
 <h3>Contact</h3>
