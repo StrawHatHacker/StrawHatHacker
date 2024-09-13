@@ -1,4 +1,4 @@
-<h1 align="center">StrawHatHacker</h1>
+<h1 align="center">Panos Ntais</h1>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/panos-ntais">
@@ -9,28 +9,50 @@
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 </p>
 
-<h2 align="center">ABOUT ME</h2>
+<h2>ABOUT</h2>
 
-Hello, I'm a software developer, mostly creating websites but also Discord chat bots for fun. My tech stack can vary per project but I'm a JavaScript enthousiast and I have a soft spot for MongoDB. <strong>My plan is to build everything at least once!</strong>
+<p>
+<strong>Software dev, full-stack. Creates websites, mobile apps and Discord chat bots</strong>
+</p>
 
-<h3>Technologies</h3>
+<h2>Technologies</h2>
 
-<h3>Websites</h3>
+<h3>
+    Languages
+</h3>
+    
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bash,dart,go,nodejs)](https://skillicons.dev)
+
+<h3>
+    Frameworks
+</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=express,flutter,react,svelte)](https://skillicons.dev)
+
+<h3>
+    Tools
+</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=unity,androidstudio,figma,firebase,git,rabbitmq,redis,tailwind)](https://skillicons.dev)
+
+<h3>
+    Database
+</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
+
+<h2>Websites</h2>
 
 * [Kouh.ai](https://kouh.ai) - Multipurpose website
 * [OtakuGIFs](https://otakugifs.xyz) - Anime GIF API
 
-<h3>Contributions</h3>
+<h2>Contributions</h2>
 
 * [SvelteKit](https://github.com/sveltejs/kit) (docs)
 * [Elysia](https://github.com/elysiajs/documentation) (docs)
 * [DaisyUI collection](https://github.com/willpinha/daisy-collection) (UI components)
 * [GoFiber](https://github.com/gofiber/fiber) (docs)
 
-<h3>Contact</h3>
-
-Message me on [LinkedIn](https://www.linkedin.com/in/panos-ntais)
-
-<h3>Achievements</h3>
+<h2>Achievements</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub&column=8rank=S&margin-w=10&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
