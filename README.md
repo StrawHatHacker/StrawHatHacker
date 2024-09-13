@@ -39,7 +39,7 @@
     Database
 </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,sqlite)](https://skillicons.dev)
 
 <h2>Websites</h2>
 
