@@ -6,7 +6,7 @@
     <a href="https://codepen.io/strawhathacker">
         <img src="https://img.shields.io/badge/-CODEPEN-black?logo=codepen&logoWidth=16&style=for-the-badge"/></a>&nbsp;
     <a href="https://twitter.com/xSkillers3">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+        <img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white&logoWidth=16&style=for-the-badge" alt="Twitter" /></a>&nbsp;
 </p>
 
 <h2>ABOUT</h2>
