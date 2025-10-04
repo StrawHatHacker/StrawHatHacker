@@ -43,7 +43,7 @@
 
 <h2>Websites</h2>
 
-* [Kouh.ai](https://kouh.ai) - Multipurpose website
+* [Kouh.ai](https://panosntais.com) - Portofolio
 * [OtakuGIFs](https://otakugifs.xyz) - Anime GIF API
 
 <h2>Contributions</h2>
